@@ -5,6 +5,18 @@
 
 Welcome to the Arduino Railway Safety Project! This project aims to enhance railway safety with three key features: automatic crossing bar, platform safety, and train coming alert.
 
+
+
+<figure>
+  <img src="https://github.com/Sk-Azraf-Sami/Safe-Railway/raw/main/assets/3.jpeg" alt="Image 3" >
+</figure>
+
+<br/>
+<br/>
+<figure>
+  <img src="https://github.com/Sk-Azraf-Sami/Safe-Railway/raw/main/assets/4.jpeg" alt="Image 4">
+</figure>
+
 ## Features
 
 1. **Automatic Crossing Bar:**
